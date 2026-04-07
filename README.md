@@ -1,5 +1,3 @@
-# Personal-Portfolio-website-
-<br><br>
 # 🚀 Subhadip Pal — Personal Portfolio Website
 
 > A recruiter-impressive, fully responsive personal portfolio website built with pure HTML, CSS & JavaScript.
