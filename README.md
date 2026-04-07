@@ -2,7 +2,7 @@
 
 > A recruiter-impressive, fully responsive personal portfolio website built with pure HTML, CSS & JavaScript.
 
-**Live Demo:** [palsubhadip304-ship-it.github.io/portfolio](https://palsubhadip304-ship-it.github.io/portfolio)
+**Live Demo:** [palsubhadip304-ship-it.github.io/portfolio](https://palsubhadip304-ship-it.github.io/Personal-Portfolio-website-/)
 
 ---
 
